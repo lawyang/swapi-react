@@ -8,8 +8,8 @@
 }
 
 .App-header {
-  background-color: #222;
-  height: 90px;
+  background-image: url("https://starwarsblog.starwars.com/wp-content/uploads/2015/01/blog-background-template-2400x1200-128412229381.jpg");
+  height: 400px;
   padding: 20px;
   color: white;
 }
